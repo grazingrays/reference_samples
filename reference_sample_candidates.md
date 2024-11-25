@@ -120,20 +120,20 @@
     <summary>bibtex reference</summary>
 
     ```BibTeX
-  @article{sachse22_multil_effec_mater_approx_model,
-  author =	 {Ren{\'e} Sachse and Vasile-Dan Hodoroaba and Ralph
+    @article{sachse22_multil_effec_mater_approx_model,
+    author =	 {Ren{\'e} Sachse and Vasile-Dan Hodoroaba and Ralph
                   Kraehnert and Andreas Hertwig},
-  title =	 {Multilevel Effective Material Approximation for
+    title =	 {Multilevel Effective Material Approximation for
                   Modeling Ellipsometric Measurements on Complex
                   Porous Thin Films},
-  journal =	 {Advanced Optical Technologies},
-  volume =	 11,
-  number =	 {3-4},
-  pages =	 {137-147},
-  year =	 2022,
-  doi =		 {10.1515/aot-2022-0007},
-  url =		 {http://dx.doi.org/10.1515/aot-2022-0007},
-  DATE_ADDED =	 {Fri Apr 5 14:13:15 2024},
+    journal =	 {Advanced Optical Technologies},
+    volume =	 11,
+    number =	 {3-4},
+    pages =	 {137-147},
+    year =	 2022,
+    doi =		 {10.1515/aot-2022-0007},
+    url =		 {http://dx.doi.org/10.1515/aot-2022-0007},
+    DATE_ADDED =	 {Fri Apr 5 14:13:15 2024},
     }
     ```
 
