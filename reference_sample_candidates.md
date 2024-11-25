@@ -6,6 +6,7 @@
 - recipe by Blanton et al.
   <details>
   <summary>bibtex reference</summary>
+
   ```BibTeX
   @article{blanton00_prepar_silver_behen_coatin_to,
   author =       {T. N. Blanton and C. L. Barnes and M. Lelental},
@@ -21,5 +22,6 @@
   DATE_ADDED =   {Fri Sep 6 16:43:15 2024},
   }
   ```
+
   </details>
 
